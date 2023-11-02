@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark John Tocino</h1>
 <h3 align="center">Full Stack Developer</h3>
+<img src="https://media.istockphoto.com/id/1297174535/vector/male-personage-concentrated-at-working-project-isolated-man-coding-and-programming-looking.jpg?s=612x612&w=0&k=20&c=g-by49lFnVqaNRuPhIvEvoKtYkjJlO69HJoRsVVUE_A=" alt="CodingMan"></img>
 
 - 🔭 I’m currently working on [Honda E-Commerce](https://honda-e-commerce.vercel.app/)
 
